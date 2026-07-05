@@ -27,3 +27,5 @@ Universal is a game made By Makar Boss Games (Makar Yamniuk)
 - Rename func jumpBuffer() to jumpInput()
 ### v0.0.9
 - Fix some bugs
+### v0.1.0
+- Finish Player Control
